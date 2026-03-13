@@ -1,0 +1,17 @@
+C:\Users\meyzd\OneDrive\Desktop\OpenPolaris Rapor\AlkorSimulation\obj\Release\net9.0\AlkorSimulation.csproj.AssemblyReference.cache
+C:\Users\meyzd\OneDrive\Desktop\OpenPolaris Rapor\AlkorSimulation\obj\Release\net9.0\AlkorSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meyzd\OneDrive\Desktop\OpenPolaris Rapor\AlkorSimulation\obj\Release\net9.0\AlkorSimulation.AssemblyInfoInputs.cache
+C:\Users\meyzd\OneDrive\Desktop\OpenPolaris Rapor\AlkorSimulation\obj\Release\net9.0\AlkorSimulation.AssemblyInfo.cs
+C:\Users\meyzd\OneDrive\Desktop\OpenPolaris Rapor\AlkorSimulation\obj\Release\net9.0\AlkorSimulation.csproj.CoreCompileInputs.cache
+C:\Users\meyzd\OneDrive\Desktop\OpenPolaris Rapor\AlkorSimulation\bin\Release\net9.0\AlkorSimulation.exe
+C:\Users\meyzd\OneDrive\Desktop\OpenPolaris Rapor\AlkorSimulation\bin\Release\net9.0\AlkorSimulation.deps.json
+C:\Users\meyzd\OneDrive\Desktop\OpenPolaris Rapor\AlkorSimulation\bin\Release\net9.0\AlkorSimulation.runtimeconfig.json
+C:\Users\meyzd\OneDrive\Desktop\OpenPolaris Rapor\AlkorSimulation\bin\Release\net9.0\AlkorSimulation.dll
+C:\Users\meyzd\OneDrive\Desktop\OpenPolaris Rapor\AlkorSimulation\bin\Release\net9.0\AlkorSimulation.pdb
+C:\Users\meyzd\OneDrive\Desktop\OpenPolaris Rapor\AlkorSimulation\bin\Release\net9.0\BouncyCastle.Cryptography.dll
+C:\Users\meyzd\OneDrive\Desktop\OpenPolaris Rapor\AlkorSimulation\obj\Release\net9.0\AlkorSim.FA6DCB7F.Up2Date
+C:\Users\meyzd\OneDrive\Desktop\OpenPolaris Rapor\AlkorSimulation\obj\Release\net9.0\AlkorSimulation.dll
+C:\Users\meyzd\OneDrive\Desktop\OpenPolaris Rapor\AlkorSimulation\obj\Release\net9.0\refint\AlkorSimulation.dll
+C:\Users\meyzd\OneDrive\Desktop\OpenPolaris Rapor\AlkorSimulation\obj\Release\net9.0\AlkorSimulation.pdb
+C:\Users\meyzd\OneDrive\Desktop\OpenPolaris Rapor\AlkorSimulation\obj\Release\net9.0\AlkorSimulation.genruntimeconfig.cache
+C:\Users\meyzd\OneDrive\Desktop\OpenPolaris Rapor\AlkorSimulation\obj\Release\net9.0\ref\AlkorSimulation.dll

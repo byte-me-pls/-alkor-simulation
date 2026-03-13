@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "RvQXtVS5Hhk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\meyzd\\OneDrive\\Desktop\\OpenPolaris Rapor\\AlkorSimulation\\AlkorSimulation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\meyzd\\.nuget\\packages\\bouncycastle.cryptography\\2.6.2\\bouncycastle.cryptography.2.6.2.nupkg.sha512",
+    "C:\\Users\\meyzd\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.11\\microsoft.aspnetcore.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\meyzd\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.11\\microsoft.netcore.app.host.win-x64.9.0.11.nupkg.sha512",
+    "C:\\Users\\meyzd\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.11\\microsoft.netcore.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\meyzd\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.11\\microsoft.windowsdesktop.app.ref.9.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
