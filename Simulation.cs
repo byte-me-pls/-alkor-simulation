@@ -79,7 +79,7 @@ class Simulation
         Console.ForegroundColor = ConsoleColor.White;
         Console.WriteLine("\n================================================================");
         Console.WriteLine("  Simulasyon tamamlandi.");
-        Console.WriteLine("  Kaynak kod: github.com/OpenPolaris/alkor-simulation");
+        Console.WriteLine("  Kaynak kod: github.com/byte-me-pls/-alkor-simulation");
         Console.WriteLine("================================================================");
         Console.ResetColor();
     }
@@ -101,7 +101,7 @@ class Simulation
 
   Rotating Leader Konsensus Simulasyonu
   OpenPolaris | Gazi Universitesi
-  by @byte me pls
+  by @bytemepls
  ================================================================");
         Console.ResetColor();
 
